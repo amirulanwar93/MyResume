@@ -3,9 +3,19 @@ a {
   margin: 12px;
 }
 
+body{
+  background-color: rgb(101, 101, 239);
+}
+
 nav {
   padding: 4px 0px;
   margin: 4px 0px;
+}
+
+.container{
+  box-sizing: content-box;
+  width: 600px;
+  background-color: whitesmoke;
 }
 
 img {
