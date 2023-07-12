@@ -12,9 +12,9 @@ nav {
   margin: 4px 0px;
 }
 
-.container{
+.container-fluid{
   box-sizing: content-box;
-  width: 600px;
+  max-width: 600px;
   background-color: whitesmoke;
 }
 
